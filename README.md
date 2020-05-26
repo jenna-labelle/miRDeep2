@@ -5,6 +5,6 @@ Small scripts for automating miRDeep2 analysis, from bam input
 
   -Samtools
   
-    *Seq_filter.py not written by me*
-    
 Run all scripts at once with bam files as input using "miRDeep2Pipeline.sh"
+
+*Note: Seq_filter.py not written by me*
